@@ -100,4 +100,9 @@ Reduz falhas de comunicação com os pacientes.
 **5. RF15 – Indicadores → Should Have**  
 É importante para a gestão e melhoria contínua, mas pode ser implementado após as funcionalidades essenciais.
 
+Alunos: João Pedro Pimentel
+Nicolle
+Arthur
+Sara
+
 Link da Atividade completa: https://github.com/marcopopovidis-coder/engenharia_software_moscow_repo/edit/main/Atividade_Completa_Original_MoSCoW_Adicionado.md
